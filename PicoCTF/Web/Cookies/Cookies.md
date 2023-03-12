@@ -1,0 +1,1 @@
+Find your cookies in the inspect element/application. From there you can manipulate the number of the cookie. Flag is number 18.

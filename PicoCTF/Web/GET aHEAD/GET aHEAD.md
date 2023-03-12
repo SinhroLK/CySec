@@ -1,0 +1,1 @@
+Use burp suite to intercept the http methods. Send the intercepted POST method to repeater and send it from there as a HEAD mehod.

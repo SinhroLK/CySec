@@ -1,0 +1,1 @@
+You can find 3 parts of the flag in source code, one in the .html file, one in the .css file and the last one in the .js file.
