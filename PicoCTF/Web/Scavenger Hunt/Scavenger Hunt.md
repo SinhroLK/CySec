@@ -1,0 +1,1 @@
+Similarly to the Insp3ct0r chall, flag is separated into multiple parts. The first two parts are in the .html and .css files. When you go to check the .js file, you can see it asking you how to stop google from indexing a wesite. Also you can see some robots.txt references. I tried robots.txt and got the 3rd part of the flag. 4th part is in the .htaccess and 5th is in .DS_Store
